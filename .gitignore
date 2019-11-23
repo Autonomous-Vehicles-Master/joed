@@ -1,0 +1,6 @@
+simulator/carla
+
+__pycache__/
+*.py[cod]
+*$py.class
+
