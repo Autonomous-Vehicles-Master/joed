@@ -19,7 +19,7 @@ The project is divided in three parts:
 
 Install python libraries:
 ```bash
-python3 -m install pyqtgraph pygame matplotlib h5py opencv-python future numpy jupyter PyQt5
+python3 -m install pyqtgraph pygame matplotlib h5py opencv-python future numpy jupyter PyQt5 open3d
 ```
 
 ## 1. Dataset Generation
